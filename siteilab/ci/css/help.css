@@ -1,0 +1,21 @@
+/* ajuda */
+
+.ajuda{
+	/* position: absolute; */
+	margin-left: 0px;
+	text-align: justify;
+	top: 282px;
+	width: auto;
+	font-family: 'Open Sans', sans-serif;
+	/* font: normal normal normal 193px/1.4em; */
+}
+div div div h2, div div div p{
+	color: #000000; 
+	margin: 10px;
+}
+hr{
+	color: #f00;
+  	background-color: #CC0000;
+  	height: 3px;
+}
+
